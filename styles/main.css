@@ -19,3 +19,15 @@ body {
   color: white;
   font-size: 30px;
 }
+
+
+.footer {
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  text-align: center;
+  background: #7a00b3;
+  color: white;
+  font-size: 30px;
+}
