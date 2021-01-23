@@ -1,14 +1,14 @@
-body {
-    font-size: 16px;
-    color: rgb(62, 62, 62);
-    line-height: 1.43;
-    font-family: Trebuchet MS, sans-serif;
-}
-
 .butts {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: dodgerblue;
   font-size: 30px;
+}
+
+body {
+    font-size: 16px;
+    color: rgb(62, 62, 62);
+    line-height: 1.43;
+    font-family: Trebuchet MS, sans-serif;
 }
