@@ -39,14 +39,31 @@ body {
 }
 
 .images {
-  width: 90%;
+  width: 100%;
   height: auto;
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.imageright {
+  float: right;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 40%;
+}
+
+.imageleft {
+  float: right;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 40%;
+}
+
 .textbox {
-  text-align: center;
   text-align: center;
   display: block;
   margin-left: auto;
