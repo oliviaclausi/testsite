@@ -55,7 +55,7 @@ body {
 }
 
 .imageleft {
-  float: right;
+  float: left;
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 5%;
