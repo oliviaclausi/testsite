@@ -17,6 +17,7 @@ body {
   padding-bottom: 10px;
   padding-left: 30px;
   background: #7a00b3;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   /*text*/
   text-align: center;
   color: white;
@@ -30,6 +31,7 @@ body {
   padding-bottom: 5px;
   padding-left: 30px;
   background: #7a00b3;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   /*text*/
   text-align: center;
   color: white;
