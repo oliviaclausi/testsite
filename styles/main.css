@@ -9,25 +9,29 @@ body {
     text-align: center;
 }
 
+/*classes*/
 .header {
+  border-radius: 15px;
   padding-top: 10px;
   padding-right: 30px;
   padding-bottom: 10px;
   padding-left: 30px;
-  text-align: center;
   background: #7a00b3;
+  /*text*/
+  text-align: center;
   color: white;
   font-size: 30px;
 }
 
-
 .footer {
+  border-radius: 15px;
   padding-top: 5px;
   padding-right: 30px;
   padding-bottom: 5px;
   padding-left: 30px;
-  text-align: center;
   background: #7a00b3;
+  /*text*/
+  text-align: center;
   color: white;
-  font-size: 30px;
+  font-size: 10px;
 }
