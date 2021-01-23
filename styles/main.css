@@ -47,6 +47,7 @@ body {
 
 .textbox {
   text-align: center;
+  width: 90%;
   color: white;
   font-size: 20px;
   background: rgba(0, 0, 0, 0.4);
