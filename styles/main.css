@@ -2,15 +2,18 @@
 
 body {
     font-size: 16px;
-    color: rgb(62, 62, 62);
+    color:#786e7d;
     line-height: 1.43;
     font-family: Trebuchet MS, sans-serif;
 }
 
 .header {
-  padding: 60px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
   text-align: center;
-  background: #1abc9c;
+  background: #7a00b3;
   color: white;
   font-size: 30px;
 }
