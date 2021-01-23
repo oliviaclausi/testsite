@@ -2,9 +2,11 @@
 
 body {
     font-size: 16px;
-    color:#786e7d;
+    color:white;
+    background: #786e7d;
     line-height: 1.43;
     font-family: Trebuchet MS, sans-serif;
+    text-align: center;
 }
 
 .header {
